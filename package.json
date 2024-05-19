@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Simple Command Line Interface Movie App",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-Beard1/CLI-Movie-App.git"
+  },
+  "keywords": [
+    "CLI",
+    "Movie",
+    "App"
+  ],
+  "author": "Thiha Swan Htet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-Beard1/CLI-Movie-App/issues"
+  },
+  "homepage": "https://github.com/git-Beard1/CLI-Movie-App#readme"
+}
